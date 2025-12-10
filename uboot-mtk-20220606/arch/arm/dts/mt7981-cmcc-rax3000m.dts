@@ -63,7 +63,7 @@
 	status = "okay";
 	mediatek,gmac-id = <0>;
 	phy-mode = "sgmii";
-	mediatek,switch = "mt7531";
+	mediatek,switch = "an8855";
 	reset-gpios = <&gpio 39 GPIO_ACTIVE_HIGH>;
 
 	fixed-link {
