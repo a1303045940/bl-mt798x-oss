@@ -4,7 +4,7 @@
 #include "mt7981-cmcc-rax3000m.dts"
 
 / {
-	model = "mt7981-cmcc-rax3000me-an8855";
+	model = "mt7981_cmcc-rax3000me-an8855";
 };
 
 &eth {
